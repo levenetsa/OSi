@@ -5,4 +5,4 @@ revwords:revwords.c libhelpers.so
 libhelpers.so:
 	make -C ../lib
 clean:
-	rm -rf revwords ../lib/libhelpers.so
+	rm -rf revwords 

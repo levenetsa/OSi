@@ -6,3 +6,4 @@ libhelpers.so:
 	make -C ../lib
 clean:
 	rm -rf cat 
+	make clean ../lib/
